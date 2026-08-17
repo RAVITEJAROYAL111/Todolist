@@ -156,7 +156,7 @@ li{
     margin-top:15px;
     width:100%;
 }
-````
+``
 script.js
 
 function addTask() {
@@ -227,7 +227,7 @@ function searchTask() {
         }
     });
 }
-````
+```
 
 ## OUTPUT
 <img width="1037" height="511" alt="image" src="https://github.com/user-attachments/assets/7f051f8d-0ff3-4222-b4aa-a699c19952b1" />
